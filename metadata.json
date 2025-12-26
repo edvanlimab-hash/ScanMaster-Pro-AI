@@ -1,0 +1,7 @@
+{
+  "name": "ScanMaster Pro AI",
+  "description": "A high-performance QR and Barcode scanner powered by Gemini AI. Scan, generate, and analyze any code with intelligent context-aware actions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
